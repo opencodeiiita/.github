@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Open Code logo](https://opencodeiiita.github.io/dist/images/Logo.png)
+![Open Code logo](https://opencodeiiita.github.io/dist/images/Logo_readme.png)
 
 
 ### 🙋‍♀️ Introduction:
