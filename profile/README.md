@@ -4,7 +4,7 @@
 
 
 ### 🙋‍♀️ Introduction:
-A month-long program starting in October for students to start their journey in the world of open source.
+A month-long program starting in December for students to start their journey in the world of open source.
 The Only requirement being an enthusiastic heart to learn.😻
 
 
