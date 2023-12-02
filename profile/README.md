@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![Open Code logo](https://opencodeiiita.github.io/dist/images/New_Banner.png)
+![opencode banner-min](https://github.com/opencodeiiita/.github/assets/98329292/24dea962-95d6-4226-b6d8-d0fac4faadc2)
 
 
 ### 🙋‍♀️ Introduction:
