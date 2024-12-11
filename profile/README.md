@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![opencode banner-min](https://github.com/opencodeiiita/.github/assets/98329292/24dea962-95d6-4226-b6d8-d0fac4faadc2)
+![opencode banner-min](https://github.com/user-attachments/assets/af7a67f5-792f-483d-8ac7-c0048e8b5922)
 
 
 ### 🙋‍♀️ Introduction:
@@ -19,5 +19,3 @@ The Only requirement being an enthusiastic heart to learn.😻
 
 👩‍💻 Socials -
 [Facebook](https://www.facebook.com/opencodeiiita/), [Twitter](https://twitter.com/geekhaveniiita), [Instagram](https://instagram.com/geekhaven_iiita/), [Github](https://github.com/opencodeiiita)
-
-
