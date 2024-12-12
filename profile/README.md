@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![opencode banner-min](https://github.com/user-attachments/assets/af7a67f5-792f-483d-8ac7-c0048e8b5922)
+![opencode banner-min](https://github.com/user-attachments/assets/b5f0c191-45d2-4374-9bfc-3976f0573664)
 
 
 ### 🙋‍♀️ Introduction:
