@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![opencode banner-min](https://github.com/user-attachments/assets/b5f0c191-45d2-4374-9bfc-3976f0573664)
+<img width="3104" height="1748" alt="banner" src="https://github.com/user-attachments/assets/50ce3dc0-68fd-456b-9264-8daa74b57ae4" />
 
 
 ### 🙋‍♀️ Introduction:
