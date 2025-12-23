@@ -1,6 +1,7 @@
 ## Hey, this is us 👋
 
-<img width="3104" height="1748" alt="banner" src="https://github.com/user-attachments/assets/50ce3dc0-68fd-456b-9264-8daa74b57ae4" />
+
+<img width="3104" height="1748" alt="banner(5)" src="https://github.com/user-attachments/assets/bacd3826-f753-4228-bdba-859a23124268" />
 
 
 ### 🙋‍♀️ Introduction:
