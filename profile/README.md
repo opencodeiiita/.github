@@ -1,22 +1,51 @@
-## Hey, this is us 👋
+# Hey, this is OpenCode '26! 👋
 
+![OpenCode '26 Banner](./assets/opencode-2026-banner.jpeg)
 
-<img width="3104" height="1748" alt="banner(5)" src="https://github.com/user-attachments/assets/bacd3826-f753-4228-bdba-859a23124268" />
+### 🌸 The Philosophy — Kaizen (改善)
 
+**Small steps. Continuous growth. Meaningful change.**
 
-### 🙋‍♀️ Introduction:
-A month-long program starting in December for students to start their journey in the world of open source.
-The Only requirement being an enthusiastic heart to learn.😻
+Inspired by the Japanese philosophy of *Kaizen*, OpenCode '26 celebrates the idea that improvement is a continuous journey.
 
+Kaizen is about becoming a little better every day — learning from mistakes, embracing challenges, and building upon what we already know.
 
-### 🌈 How Opencode works?
-- Claim Issue: It doesn't matter whether you know how to solve it. Don't look out for issues you know how to solve, but rather to the once you don't know how to solve! This will be your opening door to learning something new.
+We believe open source is one of the best ways to put this philosophy into practice.
 
-- Solve Issue: After claiming the issue, now it's the time to explore ways on how to proceed. Mentors and Google will be to your rescue here. Take advantage of both to the most.
+You don't have to be an expert to get started. You just need curiosity, consistency, and the willingness to improve.
 
-- Open a Pull Request: After reading everything on internet ever written and those to be written in future, it's the time to open your pr. This will be the golden moment, where you will discover another 100 ways git could make you cry!
+### 🙋 About OpenCode
 
-- Climb the Leaderboard: After spending another sleepless night to see your pr getting merged it's the time to climb up the leaderboard and enjoy that shortliving "I love Programming" feeling!
+OpenCode is a month-long open-source program running from **13th December 2026 to 17th January 2027**, designed to help students take their first steps into the world of open source.
 
-👩‍💻 Socials -
-[Facebook](https://www.facebook.com/opencodeiiita/), [Twitter](https://twitter.com/geekhaveniiita), [Instagram](https://instagram.com/geekhaven_iiita/), [Github](https://github.com/opencodeiiita)
+Whether you're making your first contribution or exploring unfamiliar technologies, OpenCode is your opportunity to learn by building, collaborate with developers, and become part of something bigger.
+
+**No prior open-source experience required. Just an enthusiastic heart and a willingness to learn!** 💜
+
+### 🌈 How OpenCode Works
+
+- **Claim an Issue:** Step outside your comfort zone! Don't just pick issues you already know how to solve. Challenge yourself with something unfamiliar. Every issue is an opportunity to discover something new.
+
+- **Solve the Issue:** Time to get your hands dirty! Explore the codebase, experiment with solutions, read documentation, and don't hesitate to reach out to mentors. Remember, getting stuck is part of learning.
+
+- **Open a Pull Request:** Once you've figured things out, it's time to share your work. Submit your PR, welcome feedback, make improvements, and experience the joy (and occasional pain) of collaborating through Git!
+
+- **Climb the Leaderboard:** Every contribution counts! Get your PRs merged, earn points, climb the leaderboard, and celebrate your progress. After all, every small improvement takes you one step further.
+
+### 🏯 What Awaits You?
+
+- Hands-on experience with real-world open-source projects.
+- An opportunity to explore new technologies and frameworks.
+- Guidance and support from experienced mentors.
+- A chance to collaborate with like-minded developers.
+- A community where learning and improvement never stop.
+
+### 👩‍💻 Connect With Us
+
+[Facebook](https://www.facebook.com/opencodeiiita/) · [Twitter](https://twitter.com/geekhaveniiita) · [Instagram](https://instagram.com/geekhaven_iiita/) · [GitHub](https://github.com/opencodeiiita)
+
+---
+
+*改善 — Kaizen*
+
+**Keep learning. Keep building. Keep improving.** 🌸
