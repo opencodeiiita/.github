@@ -1,8 +1,6 @@
-# Hey, this is OpenCode '26! 👋
+![OpenCode '26 Banner](./opencode-2026-banner.jpeg)
 
-![OpenCode '26 Banner](./assets/opencode-2026-banner.jpeg)
-
-### 🌸 The Philosophy — Kaizen (改善)
+### 🌸 The Philosophy - Kaizen (改善)
 
 **Small steps. Continuous growth. Meaningful change.**
 
